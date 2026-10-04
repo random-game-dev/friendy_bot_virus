@@ -1,0 +1,13 @@
+{
+  "BotName": "Friendy",
+  "GreetingText": "Hey, I'm Friendy. What's on your mind?",
+  "TypingSpeed": 24,
+  "MouthSpeed": 145,
+  "ExtraSettingsEnabled": false,
+  "UseOfflineMode": true,
+  "AnimatedMouth": true,
+  "EnableGDIUsage": false,
+  "CustomPersonality": "",
+  "UseCustomPersonality": false,
+  "MoreContextMenuBtns": false
+}
